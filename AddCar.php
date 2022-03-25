@@ -16,7 +16,7 @@
                             "dod":{"dur":"Durango"},
                             "for":{"esc":"Escape"},
                             "hon":{"crv":"CRV"},
-                            "tes":{"mox":"Model X"}};
+                            "tes":{"mox":"Model X","mos":"Model S"}};
    </script>
       <meta charset = "utf-8" />
       <title>RedBook Value</title>
